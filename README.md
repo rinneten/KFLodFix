@@ -1,5 +1,5 @@
 # KFLodFix
-This Killing Floor models client-sided patch fixes LOD (levels of detail) ingame, so you wont see naked Pat ass anymore.
+This Killing Floor models client-sided patch fixes LOD (levels of detail) ingame, so you wont see naked Pat's ass anymore.
 
 # Install
 1. [Download repos as .zip](https://github.com/rinneten/KFLodFix/archive/refs/heads/main.zip)
